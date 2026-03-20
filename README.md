@@ -1,7 +1,7 @@
 # Hi my name is Vinicius Valentini
 
 - # 💫 About Me:
-i am a computer science student currently nearly graduating, my main areas are:<br><br>linux, vscode, AI (newbie), C (so so), SQL, data bank, postgres, python, java, css, html,
+i am a computer science student currently and nearly graduating.
 
 
 ## 🌐 Socials:
