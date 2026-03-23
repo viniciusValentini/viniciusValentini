@@ -1,9 +1,6 @@
 # 💫 About Me:
 🎓 Computer Science student<br><br>💻 Passionate about technology, programming, and problem-solving<br>🚀 Exploring everything from low-level (Assembly, C) to advanced system concepts<br>🧠 Always focused on understanding how things really work — not just using them, but mastering them<br><br>🔧 Currently focused on:<br>• Data structures and algorithms<br>• Database creation<br>• Systems development<br><br>📈 Constantly improving — better code than yesterday<br><br>⚡ “Working on a brighter future today.”<br>
 
-Markdown:
-
-![](https://github-readme-stats.vercel.app/api?username=viniciusValentini&theme=synthwave)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Vinicius Roberto) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vinicius_valentini) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:viniciurcco@gmail.com) 
@@ -14,6 +11,7 @@ Markdown:
 ![](https://github-readme-stats.vercel.app/api?username=viniciusValentini&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=viniciusValentini&theme=ayu-mirage&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusValentini&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=viniciusValentini&theme=synthwave)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=viniciusValentini&theme=synthwave&no-frame=false&no-bg=false&margin-w=4)
