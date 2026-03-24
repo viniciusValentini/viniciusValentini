@@ -2,8 +2,6 @@ name: Snake
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "0 */12 * * *"
 
 permissions:
   contents: write
@@ -17,7 +15,11 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: viniciusValentini
-          outputs: dist/snake.svg
+          outputs: |
+            dist/snake.svg
+
+      - name: Check files
+        run: ls -la dist
 
       - name: Deploy snake
         uses: JamesIves/github-pages-deploy-action@v4
