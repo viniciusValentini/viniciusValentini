@@ -1,4 +1,4 @@
-<img src="banner-valentini.png" width="100%" height="400"/>
+<img src="banner-valentini.png" width="100%" height="550"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFAA&size=30&left=true&vCenter=true&width=1500&speed=60&pause=1000&cursor=true&lines=Every+bug+is+a+lesson+with+bad+timing.)](https://git.io/typing-svg)
 # 💫 About Me:
