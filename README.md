@@ -85,6 +85,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/viniciusValentini/viniciusValentini/output/snake.svg" />
+<img src="https://raw.githubusercontent.com/viniciusValentini/viniciusValentini/.github/workflows/output/snake.svg" />
 
 ###
