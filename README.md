@@ -1,4 +1,6 @@
 <img src="assets/banner.png" width="100%"/>
+![C](https://img.shields.io/badge/C-ff6ec4?style=for-the-badge&logo=c&logoColor=white)
+![](https://github-readme-stats.vercel.app/api?username=SEU_USER&theme=synthwave)
 
 # 💫 About Me:
 🎓 Computer Science student<br><br>💻 Passionate about technology, programming, and problem-solving<br>🚀 Exploring everything from low-level (Assembly, C) to advanced system concepts<br>🧠 Always focused on understanding how things really work — not just using them, but mastering them<br><br>🔧 Currently focused on:<br>• Data structures and algorithms<br>• Database creation<br>• Systems development<br><br>📈 Constantly improving — better code than yesterday<br><br>⚡ “Working on a brighter future today.”<br>
