@@ -1,5 +1,7 @@
 <img src="pixel-art.gif" width="100%" height="350"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFAA&size=30&center=true&vCenter=true&width=1000&speed=45&pause=1500&lines=Between+me+and+programming%2C+chaos+is+guaranteed+%E2%80%94+but+so+is+persistence.)](https://git.io/typing-svg)
+
 # 💫 About Me:
 🎓 Computer Science student<br><br>💻 Passionate about technology, programming, and problem-solving<br>🚀 Exploring everything from low-level (Assembly, C) to advanced system concepts<br>🧠 Always focused on understanding how things really work — not just using them, but mastering them<br><br>🔧 Currently focused on:<br>• Data structures and algorithms<br>• Database creation<br>• Systems development<br><br>📈 Constantly improving — better code than yesterday<br><br>⚡ “Working on a brighter future today.”<br>
 
