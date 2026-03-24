@@ -85,6 +85,6 @@
 
 ###
 
-<img align="center" src="https://raw.githubusercontent.com/viniciusValentini/viniciusValentini/output/snake.yml" />
+<img src="https://raw.githubusercontent.com/viniciusValentini/viniciusValentini/output/snake.svg" alt="Snake animation" />
 
 ###
