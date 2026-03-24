@@ -2,6 +2,8 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=viniciusValentini.viniciusValentini&left_color=darkgrey&right_color=orange&left_text=visitantes"  />
 </div>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFAA&size=30&left=true&vCenter=true&width=1500&speed=60&pause=1000&lines=Every+bug+is+a+lesson+with+bad+timing.)](https://git.io/typing-svg)
+
 ###
 
 <h1 align="left">Hey 👋 What's up?</h1>
