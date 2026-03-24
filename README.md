@@ -1,5 +1,4 @@
 <img src="banner.png" width="100%" height="350"/>
-<div class="tenor-gif-embed" data-postid="22376099" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/pink-city-pinkcity-gif-22376099">Pink City GIF</a>from <a href="https://tenor.com/search/pink-gifs">Pink GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 # 💫 About Me:
 🎓 Computer Science student<br><br>💻 Passionate about technology, programming, and problem-solving<br>🚀 Exploring everything from low-level (Assembly, C) to advanced system concepts<br>🧠 Always focused on understanding how things really work — not just using them, but mastering them<br><br>🔧 Currently focused on:<br>• Data structures and algorithms<br>• Database creation<br>• Systems development<br><br>📈 Constantly improving — better code than yesterday<br><br>⚡ “Working on a brighter future today.”<br>
